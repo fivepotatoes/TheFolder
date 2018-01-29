@@ -27,69 +27,69 @@
 		<!	<img src="imageLocation" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 		
 		
-<script>
-/* These are the functions that get called when the user clicks the buttons on the program page*/
-function myFunction1() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My arms");
-}
+	<script>
+	/* These are the functions that get called when the user clicks the buttons on the program page*/
+		function myFunction1() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My arms");
+		}
 
-function myFunction2() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My legs");
-}
+		function myFunction2() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My legs");
+		}
 
-function myFunction3() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
-    myWindow.document.write("<p>My eyes");
-}
+		function myFunction3() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
+    		myWindow.document.write("<p>My eyes");
+		}
 
-function myFunction4() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My ears");
-}
+		function myFunction4() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   		myWindow.document.write("<p>My ears");
+		}
 
-function myFunction5() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My chest");
-}
+		function myFunction5() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My chest");
+		}
 
-function myFunction6() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My hands");
-}
+		function myFunction6() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My hands");
+		}
 
-function myFunction7() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My feet");
-}
+		function myFunction7() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   		myWindow.document.write("<p>My feet");
+		}
 
-function myFunction8() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My mouth");
-}
+		function myFunction8() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My mouth");
+		}
 
-function myFunction9() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My nose");
-}
+		function myFunction9() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My nose");
+		}
 
-function myFunction10() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My head");
-}
+		function myFunction10() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My head");
+		}
 
-function myFunction11() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My abdomen");
-}
+		function myFunction11() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My abdomen");
+		}
 
-function myFunction12() {
-    var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    myWindow.document.write("<p>My hair");
-}
+		function myFunction12() {
+    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    		myWindow.document.write("<p>My hair");
+		}
 
-</script>
+	</script>
 		
 		<br>
 		<br>
@@ -97,74 +97,74 @@ function myFunction12() {
 			<a href="file://E|/Image_Translator_Program.html"><p style="float: center; font-size: 10pt; text-align: center; width: 10%; margin-right: 9%; margin-left: 9%; margin-bottom: 0.5em;"><img src = "file://E|/ProgramImageDirectory/Buttons/Back.png" img width="48" height="36"><p style="clear: both;">
 			</a>
 			
-	<div align=center></center>
-	<a href="file://E|/Image_Translator_Program.html">
-	<input type="submit" value="Back to Start">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Image_Translator_Program.html">
+			<input type="submit" value="Back to Start">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/Gender_page.php">
-	<input type="submit" value="Gender Selection">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Gender_page.php">
+			<input type="submit" value="Gender Selection">
+			</a>
+			<p style="clear: both;">
 
-	<div align=center></center>
-	<a href="file://E|/Actions">
-	<input type="submit" value="Actions">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Actions">
+			<input type="submit" value="Actions">
+			</a>
+			<p style="clear: both;">
 
-	<div align=center></center>
-	<a href="file://E|/Food_and_Drink.php">
-	<input type="submit" value="Food and Drinks">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Food_and_Drink.php">
+			<input type="submit" value="Food and Drinks">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/Places.php">
-	<input type="submit" value="Places">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Places.php">
+			<input type="submit" value="Places">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/Emergency_and_Health_page.php">
-	<input type="submit" value="Emergency/Health">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Emergency_and_Health_page.php">
+			<input type="submit" value="Emergency/Health">
+			</a>
+			<p style="clear: both;">
 	
 	
-	<div align=center></center>
-	<a href="file://E|/Feelings.php">
-	<input type="submit" value="Feelings">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Feelings.php">
+			<input type="submit" value="Feelings">
+			</a>
+			<p style="clear: both;">
 
 			
-<style type="text/css">
-    body {
-        margin-left:100px;
-        margin-right:100px;
-		margin-top:10px
-        line-height: 1.5;
-        FONT-FAMILY: Arial, Helvetica, sans-serif; 
-        font-size: 1.2em;
-	}
+	<style type="text/css">
+   		body {
+        		margin-left:100px;
+       			margin-right:100px;
+			margin-top:10px
+        		line-height: 1.5;
+        		FONT-FAMILY: Arial, Helvetica, sans-serif; 
+        		font-size: 1.2em;
+			}
 
-    h1 {
-        font-weight: bold;
-        font-size: 50px;
-    }
+    		h1 {
+        		font-weight: bold;
+        		font-size: 50px;
+    			}
 
-    h2 {
-        font-weight: bold;
-        font-size: 24px;
-    }
+    		h2 {
+        		font-weight: bold;
+        		font-size: 24px;
+    			}
 
-    h3 {
-        font-weight: bold;
-        font-size: 20px;
-    }
+    		h3 {
+        		font-weight: bold;
+        		font-size: 20px;
+    			}
 
-</body>
+	</body>
 </html>
