@@ -33,84 +33,84 @@
 		<!	<img src="imageLocation" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.1em;">
 		
 		
-<script>
-/* These are the functions that get called when the user clicks the buttons on the program page*/
-function myFunctionQ() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I am giving this.");
-}
+	<script>
+	/* These are the functions that get called when the user clicks the buttons on the program page*/
+		function myFunctionQ() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+   		myWindow.document.write("<p>I am giving this.");
+		}
 
-function myFunctionW() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I will eat. <br><br>OR <br><br> I am eating.");
-}
+		function myFunctionW() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I will eat. <br><br>OR <br><br> I am eating.");
+		}
 
-function myFunctionE() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300"); 
-    myWindow.document.write("<p>I am listening.");
-}
+		function myFunctionE() {
+   		var myWindow = window.open("", "MsgWindow1", "width=300,height=300"); 
+    		myWindow.document.write("<p>I am listening.");
+		}
 
-function myFunctionR() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I want to sleep. <br><br>OR <br><br>Sleep.");
-}
+		function myFunctionR() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I want to sleep. <br><br>OR <br><br>Sleep.");
+		}
 
-function myFunctionT() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I will talk. <br><br>OR <br><br>Let's talk.");
-}
+		function myFunctionT() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I will talk. <br><br>OR <br><br>Let's talk.");
+		}
 
-function myFunctionY() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I will sit.");
-}
+		function myFunctionY() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I will sit.");
+		}
 
-function myFunctionU() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I am thinking. <br><br>OR <br><br>I will think about it.");
-}
+		function myFunctionU() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I am thinking. <br><br>OR <br><br>I will think about it.");
+		}
 
-function myFunctionI() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I will walk. <br><br>OR <br><br>I am walking.");
-}
+		function myFunctionI() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I will walk. <br><br>OR <br><br>I am walking.");
+		}
 
-function myFunctionO() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I will drink. <br><br>OR <br><br>I am drinking.");
-}
+		function myFunctionO() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I will drink. <br><br>OR <br><br>I am drinking.");
+		}
 
-function myFunctionP() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I want to buy. <br><br>OR <br><br>I will buy.");
-}
+		function myFunctionP() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I want to buy. <br><br>OR <br><br>I will buy.");
+		}
 
-function myFunctionA() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>Close it. <br><br>OR <br><br>I will close it.");
-}
+		function myFunctionA() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+   		myWindow.document.write("<p>Close it. <br><br>OR <br><br>I will close it.");
+		}
 
-function myFunctionS() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>Open it. <br><br>OR <br><br>I will open it.");
-}
+		function myFunctionS() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>Open it. <br><br>OR <br><br>I will open it.");
+		}
 
-function myFunctionD() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I am taking this.");
-}
+		function myFunctionD() {
+   		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>I am taking this.");
+		}
 
-function myFunctionF() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>I am calling <br><br>OR <br><br> I will call.");
-}
+		function myFunctionF() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+	    	myWindow.document.write("<p>I am calling <br><br>OR <br><br> I will call.");
+		}
 
-function myFunctionG() {
-    var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    myWindow.document.write("<p>Stop (or I will stop.)");
-}
+		function myFunctionG() {
+    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    		myWindow.document.write("<p>Stop (or I will stop.)");
+		}
 
-</script>
+	</script>
 		
 		<br>
 		<br>
@@ -118,74 +118,74 @@ function myFunctionG() {
 			<a href="file://E|/Image_Translator_Program.html"><p style="float: center; font-size: 10pt; text-align: center; width: 10%; margin-right: 9%; margin-left: 9%; margin-bottom: 0.5em;"><img src = "file://E|/ProgramImageDirectory/Buttons/Back.png" img width="48" height="36"><p style="clear: both;">
 			</a>
 			
-	<div align=center></center>
-	<a href="file://E|/Image_Translator_Program.html">
-	<input type="submit" value="Back to Start">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Image_Translator_Program.html">
+			<input type="submit" value="Back to Start">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/Gender_page.php">
-	<input type="submit" value="Gender Selection">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/Gender_page.php">
+			<input type="submit" value="Gender Selection">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/programpage2.php">
-	<input type="submit" value="Body Parts">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/programpage2.php">
+			<input type="submit" value="Body Parts">
+			</a>
+			<p style="clear: both;">
 
-	<div align=center></center>
-	<a href="file://E|/programpage3.php">
-	<input type="submit" value="Food and Drinks">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/programpage3.php">
+			<input type="submit" value="Food and Drinks">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/programpage4.php">
-	<input type="submit" value="Places">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/programpage4.php">
+			<input type="submit" value="Places">
+			</a>
+			<p style="clear: both;">
 	
-	<div align=center></center>
-	<a href="file://E|/programpage5.php">
-	<input type="submit" value="Emergency/Health">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/programpage5.php">
+			<input type="submit" value="Emergency/Health">
+			</a>
+			<p style="clear: both;">
 	
 	
-	<div align=center></center>
-	<a href="file://E|/programpage6.php">
-	<input type="submit" value="Feelings">
-	</a>
-	<p style="clear: both;">
+		<div align=center></center>
+			<a href="file://E|/programpage6.php">
+			<input type="submit" value="Feelings">
+			</a>
+			<p style="clear: both;">
 
 			
-<style type="text/css">
-    body {
-        margin-left:100px;
-        margin-right:100px;
-		margin-top:10px
-        line-height: 1.5;
-        FONT-FAMILY: Arial, Helvetica, sans-serif; 
-        font-size: 1.2em;
-	}
+	<style type="text/css">
+    		body {
+       			margin-left:100px;
+        		margin-right:100px;
+			margin-top:10px
+        		line-height: 1.5;
+        		FONT-FAMILY: Arial, Helvetica, sans-serif; 
+        		font-size: 1.2em;
+			}
 
-    h1 {
-        font-weight: bold;
-        font-size: 50px;
-    }
+    		h1 {
+        		font-weight: bold;
+        		font-size: 50px;
+    			}
 
-    h2 {
-        font-weight: bold;
-        font-size: 24px;
-    }
+    		h2 {
+        		font-weight: bold;
+        		font-size: 24px;
+   			}
 
-    h3 {
-        font-weight: bold;
-        font-size: 20px;
-    }
+    		h3 {
+        		font-weight: bold;
+        		font-size: 20px;
+    			}
 
-</body>
+	</body>
 </html>
