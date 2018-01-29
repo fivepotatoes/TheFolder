@@ -35,12 +35,12 @@
 		
 		
 	<script>
-	/* These are the functions that get called when the user clicks the buttons on the program page*/
+	<!/* These are the functions that get called when the user clicks the buttons on the program page*/>
 		function myFunctionQ() {
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
     		myWindow.document.write("<p>I am giving this.");
 		}
-	/* Function pops up a window with the translation dialogue, same below.*/
+	<!/* Function pops up a window with the translation dialogue, same below.*/>
 		
 		function myFunctionW() {
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
