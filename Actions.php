@@ -3,7 +3,8 @@
 	<body>
 
 		<div align=center></center>
-			
+		<!Centers the pictures on the page>
+		
 			<!Row 1>
 			
 			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Actions/Give.jpg" onclick = "myFunctionQ()" alt="Submit" style="width: 100%">Give</p> 
@@ -39,7 +40,8 @@
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
     		myWindow.document.write("<p>I am giving this.");
 		}
-
+	/* Function pops up a window with the translation dialogue, same below.*/
+		
 		function myFunctionW() {
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
     		myWindow.document.write("<p>I will eat. <br><br>OR <br><br> I am eating.");
@@ -117,50 +119,56 @@
 		<div align=center></center>
 			<a href="file://E|/Image_Translator_Program.html"><p style="float: center; font-size: 10pt; text-align: center; width: 10%; margin-right: 9%; margin-left: 9%; margin-bottom: 0.5em;"><img src = "file://E|/ProgramImageDirectory/Buttons/Back.png" img width="48" height="36"><p style="clear: both;">
 			</a>
-			
+		<!Back button returns to Start page>
+		
 		<div align=center></center>
 			<a href="file://E|/Image_Translator_Program.html">
 			<input type="submit" value="Back to Start">
 			</a>
 			<p style="clear: both;">
-	
+		<!Returns to Start page>
+				
 		<div align=center></center>
 			<a href="file://E|/Gender_page.php">
 			<input type="submit" value="Gender Selection">
 			</a>
 			<p style="clear: both;">
-	
+		<!Returns to Gender Page>
+				
 		<div align=center></center>
 			<a href="file://E|/Body_Parts.php">
 			<input type="submit" value="Body Parts">
 			</a>
 			<p style="clear: both;">
-
+		<!Redirects to Body Parts Page>
+				
 		<div align=center></center>
 			<a href="file://E|/Food_and_Drink.php">
 			<input type="submit" value="Food and Drinks">
 			</a>
 			<p style="clear: both;">
-	
+		<!Redirects to Food and Drinks Page>
+				
 		<div align=center></center>
 			<a href="file://E|/Places.php">
 			<input type="submit" value="Places">
 			</a>
 			<p style="clear: both;">
-	
-	<div align=center></center>
+		<!Redirects to Places Page>
+				
+		<div align=center></center>
 			<a href="file://E|/Emergency_and_Health_page.php">
 			<input type="submit" value="Emergency/Health">
 			</a>
 			<p style="clear: both;">
+		<Redirects to Emergency and Health Page>
 	
-	
-	<div align=center></center>
+		<div align=center></center>
 			<a href="file://E|/Feelings.php">
 			<input type="submit" value="Feelings">
 			</a>
 			<p style="clear: both;">
-
+		<!Redirects to Feelings Page>
 			
 	<style type="text/css">
     		body {
