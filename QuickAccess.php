@@ -24,30 +24,30 @@
 		
 
 			
-<style type="text/css">
-    body {
-        margin-left:100px;
-        margin-right:100px;
-		margin-top:10px
-        line-height: 1.5;
-        FONT-FAMILY: Arial, Helvetica, sans-serif; 
-        font-size: 1.2em;
-	}
+	<style type="text/css">
+    		body {
+        		margin-left:100px;
+        		margin-right:100px;
+			margin-top:10px
+        		line-height: 1.5;
+        		FONT-FAMILY: Arial, Helvetica, sans-serif; 
+        		font-size: 1.2em;
+			}
 
-    h1 {
-        font-weight: bold;
-        font-size: 50px;
-    }
+    		h1 {
+        		font-weight: bold;
+        		font-size: 50px;
+    		}
 
-    h2 {
-        font-weight: bold;
-        font-size: 24px;
-    }
+    		h2 {
+        		font-weight: bold;
+        		font-size: 24px;
+    		}
 
-    h3 {
-        font-weight: bold;
-        font-size: 20px;
-    }
+   		h3 {
+        		font-weight: bold;
+        		font-size: 20px;
+   		}
 
-</body>
+	</body>
 </html>
