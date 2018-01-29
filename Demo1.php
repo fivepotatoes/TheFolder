@@ -17,27 +17,27 @@
 			<img src="imageLocation" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 		
 
-<script>		
-function myFunction() {
-    var x = document.createElement("VAR");
-    var t = document.createTextNode("Legs");
-    x.appendChild(t);
-    document.body.appendChild(x);
-}
-}
-</script>
+	<script>		
+		function myFunction() {
+    		var x = document.createElement("VAR");
+    		var t = document.createTextNode("Legs");
+    		x.appendChild(t);
+    		document.body.appendChild(x);
+		}
+		}
+	</script>
 
 			
-<style type="text/css">
-    body {
-        margin-left:100px;
-        margin-right:100px;
-		margin-top:10px
-        line-height: 1.5;
-        FONT-FAMILY: Arial, Helvetica, sans-serif; 
-        font-size: 1.2em;
-	}
+	<style type="text/css">
+    		body {
+        		margin-left:100px;
+        		margin-right:100px;
+			margin-top:10px
+        		line-height: 1.5;
+        		FONT-FAMILY: Arial, Helvetica, sans-serif; 
+        		font-size: 1.2em;
+			}
 
 
-</body>
+	</body>
 </html>
