@@ -33,58 +33,58 @@
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
 		function myFunction1() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I need to go to the bathroom.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I need to go to the bathroom.");
 		}
 
 		function myFunction2() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I want to go to the bedroom.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I want to go to the bedroom.");
 		}
 
 		function myFunction3() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300"); 
-    		myWindow.document.write("<p>I want to go home.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300"); 
+    			myWindow.document.write("<p>I want to go home.");
 		}
 
 		function myFunction4() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-   		myWindow.document.write("<p>I need to go to the hospital.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+   			myWindow.document.write("<p>I need to go to the hospital.");
 		}
 
 		function myFunction5() {
-  		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-  		myWindow.document.write("<p>I want to go to the kitchen.");
+  			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+  			myWindow.document.write("<p>I want to go to the kitchen.");
 		}
 
 		function myFunction6() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I want to go to the living room.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I want to go to the living room.");
 		}
 
 		function myFunction7() {
-   		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I want to go to a restaurant.");
+   			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I want to go to a restaurant.");
 		}
 
 		function myFunction8() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I need to go to school.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I need to go to school.");
 		}
 
 		function myFunction9() {
-   		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I need to go to work.");
+   			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I need to go to work.");
 		}
 
 		function myFunction10() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I want to go to the yard.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I want to go to the yard.");
 		}
 
 		function myFunction11() {
-    		var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
-    		myWindow.document.write("<p>I want to go to the store.");
+    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
+    			myWindow.document.write("<p>I want to go to the store.");
 		}
 
 	</script>	
