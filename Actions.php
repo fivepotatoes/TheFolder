@@ -44,80 +44,80 @@ echo makecoffee("espresso");
 	<script>
 	<!/* These are the functions that get called when the user clicks the buttons on the program page*/>
 		function Iam($type = "giving this") {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I am $type.\n");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I am $type.\n");
 		}
 	<!/* Function pops up a window with the translation dialogue, same below.*/>
 		echo Iam("listening");
 		
 		function myFunctionW() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I will eat. <br><br>OR <br><br> I am eating.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I will eat. <br><br>OR <br><br> I am eating.");
 		}
 
 		function myFunctionE() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300"); 
-    		myWindow.document.write("<p>I am listening.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300"); 
+    			myWindow.document.write("<p>I am listening.");
 		}
 
 		function myFunctionR() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I want to sleep. <br><br>OR <br><br>Sleep.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I want to sleep. <br><br>OR <br><br>Sleep.");
 		}
 
 		function myFunctionT() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I will talk. <br><br>OR <br><br>Let's talk.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I will talk. <br><br>OR <br><br>Let's talk.");
 		}
 
 		function myFunctionY() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I will sit.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I will sit.");
 		}
 
 		function myFunctionU() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I am thinking. <br><br>OR <br><br>I will think about it.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I am thinking. <br><br>OR <br><br>I will think about it.");
 		}
 
 		function myFunctionI() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I will walk. <br><br>OR <br><br>I am walking.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I will walk. <br><br>OR <br><br>I am walking.");
 		}
 
 		function myFunctionO() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I will drink. <br><br>OR <br><br>I am drinking.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I will drink. <br><br>OR <br><br>I am drinking.");
 		}
 
 		function myFunctionP() {
-   		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I want to buy. <br><br>OR <br><br>I will buy.");
+   			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I want to buy. <br><br>OR <br><br>I will buy.");
 		}
 
 		function myFunctionA() {
-   		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-   		myWindow.document.write("<p>Close it. <br><br>OR <br><br>I will close it.");
+   			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+   			myWindow.document.write("<p>Close it. <br><br>OR <br><br>I will close it.");
 		}
 
 		function myFunctionS() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>Open it. <br><br>OR <br><br>I will open it.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>Open it. <br><br>OR <br><br>I will open it.");
 		}
 
 		function myFunctionD() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I am taking this.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I am taking this.");
 		}
 
 		function myFunctionF() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I am calling <br><br>OR <br><br> I will call.");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>I am calling <br><br>OR <br><br> I will call.");
 		}
 
 		function myFunctionG() {
-    		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>Stop (or I will stop.)");
+    			var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
+    			myWindow.document.write("<p>Stop (or I will stop.)");
 		}
 
 	</script>
