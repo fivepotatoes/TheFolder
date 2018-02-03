@@ -29,71 +29,71 @@
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
 		function myFunction1() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel angry.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel angry.");
 		}
 
 		function myFunction2() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel disgusted. <br><br>OR <br><br>That is disgusting!");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel disgusted. <br><br>OR <br><br>That is disgusting!");
 		}
 
 		function myFunction3() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
-   		myWindow.document.write("<p>I feel excited!");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
+   			myWindow.document.write("<p>I feel excited!");
 		}
 
 		function myFunction4() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel scared.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel scared.");
 		}
 
 		function myFunction5() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel frustrated.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel frustrated.");
 		}
 
 		function myFunction6() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I am happy.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I am happy.");
 		}
 
 		function myFunction7() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-   		myWindow.document.write("<p>High Five!");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   			myWindow.document.write("<p>High Five!");
 		}
 
 		function myFunction8() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I love it.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I love it.");
 		}
 
 		function myFunction9() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I am hurt. <br><br>OR <br><br> I feel pain.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I am hurt. <br><br>OR <br><br> I feel pain.");
 		}
 
 		function myFunction10() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel sad.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel sad.");
 		}
 
 		function myFunction11() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-   		myWindow.document.write("<p>I feel sick.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   			myWindow.document.write("<p>I feel sick.");
 		}
 
 		function myFunction12() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I am surprised!");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I am surprised!");
 		}
 		function myFunction13() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I am grateful. Thank you.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I am grateful. Thank you.");
 		}
 		function myFunction14() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>I feel tired.");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>I feel tired.");
 		}
 
 	</script>
