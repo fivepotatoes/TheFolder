@@ -85,88 +85,88 @@
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
 		function myFunctionA() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Dairy");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Dairy");
 		}
 		function myFunctionB() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Grains");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Grains");
 		}
 		function myFunctionC() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300"); 
-   		 myWindow.document.write("<p>Fruits");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300"); 
+   			myWindow.document.write("<p>Fruits");
 		}
 		function myFunctionD() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Vegetables");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Vegetables");
 		}
 		function myFunctionE() {
-   		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Meat");
+   			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Meat");
 		}
 		function myFunctionF() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Milk");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Milk");
 		}
 		function myFunctionG() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Apple");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Apple");
 		}
 		function myFunctionH() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Ahi");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Ahi");
 		}
 		function myFunctionI() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-   		 myWindow.document.write("<p>Blueberries");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+   			myWindow.document.write("<p>Blueberries");
 		}
 		function myFunctionJ() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Burger");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Burger");
 		}
 		function myFunctionK() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300"); 
-    		myWindow.document.write("<p>Chocolate");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300"); 
+    			myWindow.document.write("<p>Chocolate");
 		}
 		function myFunctionL() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Corn");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Corn");
 		}
 		function myFunctionM() {
-   		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Eggs");
+   			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Eggs");
 		}
 		function myFunctionN() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Broccoli");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Broccoli");
 		}
 		function myFunctionO() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-   		myWindow.document.write("<p>Water");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+   			myWindow.document.write("<p>Water");
 		}
 		function myFunctionP() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Bread");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Bread");
 		}
 		function myFunctionQ() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Cabbage");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Cabbage");
 		}
 		function myFunctionR() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Carrots");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Carrots");
 		}
 		function myFunctionS() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Cheese");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Cheese");
 		}
 		function myFunctionT() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-   		myWindow.document.write("<p>Chicken wings");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+   			myWindow.document.write("<p>Chicken wings");
 		}
 		function myFunctionU() {
-    		var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
-    		myWindow.document.write("<p>Cake");
+    			var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
+    			myWindow.document.write("<p>Cake");
 		}
 	</script>
   
