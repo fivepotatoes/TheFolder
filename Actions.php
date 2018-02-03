@@ -33,14 +33,22 @@
 			
 		<!	<img src="imageLocation" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.1em;">
 		
+		function makecoffee($type = "cappuccino")
+{
+    return "Making a cup of $type.\n";
+}
+echo makecoffee();
+echo makecoffee(null);
+echo makecoffee("espresso");
 		
 	<script>
 	<!/* These are the functions that get called when the user clicks the buttons on the program page*/>
-		function myFunctionQ() {
+		function Iam($type = "giving this") {
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
-    		myWindow.document.write("<p>I am giving this.");
+    		myWindow.document.write("<p>I am $type.\n");
 		}
 	<!/* Function pops up a window with the translation dialogue, same below.*/>
+		echo Iam("listening");
 		
 		function myFunctionW() {
     		var myWindow = window.open("", "MsgWindow1", "width=300,height=300");
