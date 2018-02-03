@@ -70,43 +70,43 @@
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
 		function myFunctionQ() {
-   		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-   		myWindow.document.write("<p>Call 911!");
+   			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+   			myWindow.document.write("<p>Call 911!");
 		}
 
 		function myFunctionW() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-    		myWindow.document.write("<p>Call an ambulance!");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+    			myWindow.document.write("<p>Call an ambulance!");
 		}
 
 		function myFunctionE() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300"); 
-    		myWindow.document.write("<p>Fire!");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300"); 
+    			myWindow.document.write("<p>Fire!");
 		}
 
 		function myFunctionR() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-   		myWindow.document.write("<p>I need first aid. <br><br>OR <br><br>Where is the first aid kit?");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+   			myWindow.document.write("<p>I need first aid. <br><br>OR <br><br>Where is the first aid kit?");
 		}
 
 		function myFunctionT() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-    		myWindow.document.write("<p>Please help me.");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+    			myWindow.document.write("<p>Please help me.");
 		}
 
 		function myFunctionY() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-    		myWindow.document.write("<p>I need to go to the hospital. <br><br>OR <br><br>Where is the nearest hospital?");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+    			myWindow.document.write("<p>I need to go to the hospital. <br><br>OR <br><br>Where is the nearest hospital?");
 		}
 
 		function myFunctionU() {
-    		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-    		myWindow.document.write("<p>I need medicine.");
+    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+    			myWindow.document.write("<p>I need medicine.");
 		}
 
 		function myFunctionI() {
-   		var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
-    		myWindow.document.write("<p>I need to go to the pharmacy. <br><br>OR <br><br>Where is the nearest pharmacy?");
+   			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
+    			myWindow.document.write("<p>I need to go to the pharmacy. <br><br>OR <br><br>Where is the nearest pharmacy?");
 		}
 
 	</script>
