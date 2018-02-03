@@ -30,63 +30,63 @@
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
 		function myFunction1() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My arms");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My arms");
 		}
 
 		function myFunction2() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My legs");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My legs");
 		}
 
 		function myFunction3() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
-    		myWindow.document.write("<p>My eyes");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
+    			myWindow.document.write("<p>My eyes");
 		}
 
 		function myFunction4() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My ears");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My ears");
 		}
 
 		function myFunction5() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-   		myWindow.document.write("<p>My chest");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   			myWindow.document.write("<p>My chest");
 		}
 
 		function myFunction6() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My hands");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My hands");
 		}
 
 		function myFunction7() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My feet");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My feet");
 		}
 
 		function myFunction8() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My mouth");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My mouth");
 		}
 
 		function myFunction9() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My nose");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My nose");
 		}
 
 		function myFunction10() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My head");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My head");
 		}
 
 		function myFunction11() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-   		myWindow.document.write("<p>My abdomen");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+   			myWindow.document.write("<p>My abdomen");
 		}
 
 		function myFunction12() {
-    		var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
-    		myWindow.document.write("<p>My hair");
+    			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
+    			myWindow.document.write("<p>My hair");
 		}
 
 	</script>
