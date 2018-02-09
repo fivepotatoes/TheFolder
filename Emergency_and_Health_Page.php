@@ -6,17 +6,17 @@
 			
 			<!Row 1>
 			
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/911.png" onclick = "myFunctionQ()" alt="Submit" style="width: 100%">911</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Ambulance.png" onclick = "myFunctionW()" alt="Submit" style ="width: 100%">Ambulance</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/EmergencyHealth/Fire.png" onclick = "myFunctionE()" alt="Submit" style="width: 100%">Fire</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/EmergencyHealth/FirstAid.png" onclick = "myFunctionR()" alt="Submit" style="width: 100%">First Aid</p> <p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/911.png" onclick = "t911()" alt="Submit" style="width: 100%">911</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Ambulance.png" onclick = "tambulance()" alt="Submit" style ="width: 100%">Ambulance</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/EmergencyHealth/Fire.png" onclick = "tfire()" alt="Submit" style="width: 100%">Fire</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/EmergencyHealth/FirstAid.png" onclick = "t1aid()" alt="Submit" style="width: 100%">First Aid</p> <p style="clear: both;"> 
 			
 			<!Row 2>
 			
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/HelpMe.png" onclick = "myFunctionT()" alt="Submit" style="width: 100%">Help</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Hospital.jpg" onclick = "myFunctionY()" alt="Submit" style="width: 100%">Hospital</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Medicene2.png" onclick = "myFunctionU()" alt="Submit" style="width: 100%">Medicine</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Pharmacy.png" onclick = "myFunctionI()" alt="Submit" style="width: 100%">Pharmacy</p> <p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/HelpMe.png" onclick = "thelp()" alt="Submit" style="width: 100%">Help</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Hospital.jpg" onclick = "thosp()" alt="Submit" style="width: 100%">Hospital</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Medicene2.png" onclick = "tmeds()" alt="Submit" style="width: 100%">Medicine</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/EmergencyHealth/Pharmacy.png" onclick = "tpharm()" alt="Submit" style="width: 100%">Pharmacy</p> <p style="clear: both;"> 
 	
 		<br>
 		<br>
@@ -69,42 +69,42 @@
 	
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
-		function myFunctionQ() {
+		function t911() {
    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
    			myWindow.document.write("<p>Call 911!");
 		}
 
-		function myFunctionW() {
+		function tambulance() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
     			myWindow.document.write("<p>Call an ambulance!");
 		}
 
-		function myFunctionE() {
+		function tfire() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300"); 
     			myWindow.document.write("<p>Fire!");
 		}
 
-		function myFunctionR() {
+		function t1aid() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
    			myWindow.document.write("<p>I need first aid. <br><br>OR <br><br>Where is the first aid kit?");
 		}
 
-		function myFunctionT() {
+		function thelp() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
     			myWindow.document.write("<p>Please help me.");
 		}
 
-		function myFunctionY() {
+		function thosp() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
     			myWindow.document.write("<p>I need to go to the hospital. <br><br>OR <br><br>Where is the nearest hospital?");
 		}
 
-		function myFunctionU() {
+		function tmeds() {
     			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
     			myWindow.document.write("<p>I need medicine.");
 		}
 
-		function myFunctionI() {
+		function tpharm() {
    			var myWindow = window.open("", "MsgWindow5", "width=300,height=300");
     			myWindow.document.write("<p>I need to go to the pharmacy. <br><br>OR <br><br>Where is the nearest pharmacy?");
 		}
