@@ -6,21 +6,21 @@
 		
 			<!Row 1>
 		
-			<a href="file://E|/alt/ArmHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Arm.jpg" onclick = "myFunction1()" alt="Submit" style="width: 100%">Arms</p>
-			<a href="file://E|/alt/LegsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Legs.jpg" onclick = "myFunction2()" alt="Submit" style ="width: 100%">Legs</p>
-			<a href="file://E|/alt/EyesHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Eyes.jpg" onclick = "myFunction3()" alt="Submit" style ="width: 100%">Eyes</p>
-			<a href="file://E|/alt/EarsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Ear.jpg" onclick = "myFunction4()" alt="Submit" style="width: 100%">Ears</p>
-			<a href="file://E|/alt/ChestHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Chest.jpg" onclick = "myFunction5()" alt="Submit" style="width: 100%">Chest</p>
-			<a href="file://E|/alt/HandsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Hands.jpg" onclick = "myFunction6()" alt="Submit" style="width: 100%">Hands</p><p style="clear: both;">
+			<a href="file://E|/alt/ArmHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Arm.jpg" onclick = "tarm()" alt="Submit" style="width: 100%">Arms</p>
+			<a href="file://E|/alt/LegsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Legs.jpg" onclick = "tleg()" alt="Submit" style ="width: 100%">Legs</p>
+			<a href="file://E|/alt/EyesHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Eyes.jpg" onclick = "teye()" alt="Submit" style ="width: 100%">Eyes</p>
+			<a href="file://E|/alt/EarsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Ear.jpg" onclick = "tear()" alt="Submit" style="width: 100%">Ears</p>
+			<a href="file://E|/alt/ChestHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Chest.jpg" onclick = "tchest()" alt="Submit" style="width: 100%">Chest</p>
+			<a href="file://E|/alt/HandsHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Hands.jpg" onclick = "thand()" alt="Submit" style="width: 100%">Hands</p><p style="clear: both;">
 			
 			<!Row 2>
 			
-			<a href="file://E|/alt/FeetHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Feet.jpg" onclick = "myFunction7()" alt="Submit" style="width: 100%">Feet</p>
-			<a href="file://E|/alt/MouthHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Mouth.jpg" onclick = "myFunction8()" alt="Submit" style="width: 100%">Mouth</p>
-			<a href="file://E|/alt/NoseHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Nose.jpg" onclick = "myFunction9()" alt="Submit" style="width: 100%">Nose</p>
-			<a href="file://E|/alt/HeadHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Head.jpg" onclick = "myFunction10()" alt="Submit" style="width: 100%">Head</p>
-			<a href="file://E|/alt/AbdomenHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Abdomen.jpg" onclick = "myFunction11()" alt="Submit" style="width: 100%">Abdomen</p>
-			<a href="file://E|/alt/HairHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/BlackHair.jpg" onclick = "myFunction12()" alt="Submit" style="width: 100%">Hair</p><p style="clear: both;">
+			<a href="file://E|/alt/FeetHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Feet.jpg" onclick = "tfeet()" alt="Submit" style="width: 100%">Feet</p>
+			<a href="file://E|/alt/MouthHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Mouth.jpg" onclick = "tmouth()" alt="Submit" style="width: 100%">Mouth</p>
+			<a href="file://E|/alt/NoseHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Nose.jpg" onclick = "tnose()" alt="Submit" style="width: 100%">Nose</p>
+			<a href="file://E|/alt/HeadHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src="file://E|/ProgramImageDirectory/Things/BodyParts/Head.jpg" onclick = "thead()" alt="Submit" style="width: 100%">Head</p>
+			<a href="file://E|/alt/AbdomenHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/Abdomen.jpg" onclick = "tabdomen()" alt="Submit" style="width: 100%">Abdomen</p>
+			<a href="file://E|/alt/HairHurtSelect.php"><p style="float: left; font-size: 12pt; text-align: center; width: 15.5%; margin-right: 1%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/BodyParts/BlackHair.jpg" onclick = "thair()" alt="Submit" style="width: 100%">Hair</p><p style="clear: both;">
 			
 		<div align=left></left>
 			
@@ -29,62 +29,62 @@
 		
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
-		function myFunction1() {
+		function tarm() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My arms");
 		}
 
-		function myFunction2() {
+		function tleg() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My legs");
 		}
 
-		function myFunction3() {
+		function teye() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
     			myWindow.document.write("<p>My eyes");
 		}
 
-		function myFunction4() {
+		function tear() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My ears");
 		}
 
-		function myFunction5() {
+		function tchest() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
    			myWindow.document.write("<p>My chest");
 		}
 
-		function myFunction6() {
+		function thand() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My hands");
 		}
 
-		function myFunction7() {
+		function tfeet() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My feet");
 		}
 
-		function myFunction8() {
+		function tmouth() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My mouth");
 		}
 
-		function myFunction9() {
+		function tnose() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My nose");
 		}
 
-		function myFunction10() {
+		function thead() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My head");
 		}
 
-		function myFunction11() {
+		function tabdomen() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
    			myWindow.document.write("<p>My abdomen");
 		}
 
-		function myFunction12() {
+		function thair() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>My hair");
 		}
