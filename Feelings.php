@@ -6,92 +6,92 @@
 		<div align=center></center>
 		
 		<!Row 1>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Angry.png" onclick = "myFunction1()" alt="Submit"style="width: 100%">Anger</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Disgust.png" onclick = "myFunction2()" alt="Submit"style ="width: 100%">Disgust</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Excited.jpg" onclick = "myFunction3()" alt="Submit"style="width: 100%">Excitement</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Fear.jpg" onclick = "myFunction4()" alt="Submit"style="width: 100%">Fear</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Frustrated.jpg" onclick = "myFunction5()" alt="Submit"style="width: 100%">Frustration</p><p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Angry.png" onclick = "tanger()" alt="Submit"style="width: 100%">Anger</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Disgust.png" onclick = "tdisgust()" alt="Submit"style ="width: 100%">Disgust</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Excited.jpg" onclick = "texct()" alt="Submit"style="width: 100%">Excitement</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Fear.jpg" onclick = "tfear()" alt="Submit"style="width: 100%">Fear</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Feelings/Frustrated.jpg" onclick = "tfrust()" alt="Submit"style="width: 100%">Frustration</p><p style="clear: both;"> 
 			
 		<!Row 2>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Happy.jpg" onclick = "myFunction6()" alt="Submit"style="width: 100%">Joy</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Hi5.jpg" onclick = "myFunction7()" alt="Submit"style="width: 100%">High Five</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Love.png" onclick = "myFunction8()" alt="Submit"style="width: 100%">Love</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Pain.jpg" onclick = "myFunction9()" alt="Submit" style="width: 100%">Pain</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Sad.jpg" onclick = "myFunction10()" alt="Submit"style="width: 100%">Sadness</p><p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Happy.jpg" onclick = "tjoy()" alt="Submit"style="width: 100%">Joy</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Hi5.jpg" onclick = "thi5()" alt="Submit"style="width: 100%">High Five</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Love.png" onclick = "tlove()" alt="Submit"style="width: 100%">Love</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Pain.jpg" onclick = "tpain()" alt="Submit" style="width: 100%">Pain</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Sad.jpg" onclick = "tsad()" alt="Submit"style="width: 100%">Sadness</p><p style="clear: both;"> 
 			
 		<!Row 3>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Sick.jpg" onclick = "myFunction11()" alt="Submit" style="width: 100%">Sick</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Surprise.jpg" onclick = "myFunction12()" alt="Submit" style="width: 100%">Surprise</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/ThankYou.png" onclick = "myFunction13()" alt="Submit" style="width: 100%">Gratitude</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Tired2.jpg" onclick = "myFunction14()" alt="Submit" style="width: 100%">Weariness</p> <p style="clear: both;">
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Sick.jpg" onclick = "tsick()" alt="Submit" style="width: 100%">Sick</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Surprise.jpg" onclick = "tsurp()" alt="Submit" style="width: 100%">Surprise</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/ThankYou.png" onclick = "tthank()" alt="Submit" style="width: 100%">Gratitude</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 23%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Feelings/Tired2.jpg" onclick = "ttired()" alt="Submit" style="width: 100%">Weariness</p> <p style="clear: both;">
 			
 		
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
-		function myFunction1() {
+		function tanger() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel angry.");
 		}
 
-		function myFunction2() {
+		function tdisgust() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel disgusted. <br><br>OR <br><br>That is disgusting!");
 		}
 
-		function myFunction3() {
+		function texct() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300"); 
    			myWindow.document.write("<p>I feel excited!");
 		}
 
-		function myFunction4() {
+		function tfear() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel scared.");
 		}
 
-		function myFunction5() {
+		function tfrust() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel frustrated.");
 		}
 
-		function myFunction6() {
+		function tjoy() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I am happy.");
 		}
 
-		function myFunction7() {
+		function thi5() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
    			myWindow.document.write("<p>High Five!");
 		}
 
-		function myFunction8() {
+		function tlove() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I love it.");
 		}
 
-		function myFunction9() {
+		function tpain() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I am hurt. <br><br>OR <br><br> I feel pain.");
 		}
 
-		function myFunction10() {
+		function tsad() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel sad.");
 		}
 
-		function myFunction11() {
+		function tsick() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
    			myWindow.document.write("<p>I feel sick.");
 		}
 
-		function myFunction12() {
+		function tsurp() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I am surprised!");
 		}
-		function myFunction13() {
+		function tthank() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I am grateful. Thank you.");
 		}
-		function myFunction14() {
+		function ttired() {
     			var myWindow = window.open("", "MsgWindow2", "width=300,height=300");
     			myWindow.document.write("<p>I feel tired.");
 		}
