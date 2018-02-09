@@ -7,23 +7,23 @@
 			
 			<!Row 1>
 			
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Bathroom.jpg" onclick = "myFunction1()" alt="Submit" style="width: 100%">Bathroom</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Bedroom.jpg" onclick = "myFunction2()" alt="Submit" style ="width: 100%">Bedroom</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Home.jpg" onclick = "myFunction3()" alt="Submit" style="width: 100%">Home</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Hospital.jpg" onclick = "myFunction4()" alt="Submit" style="width: 100%">Hospital</p> 
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Kitchen.jpg" onclick = "myFunction5()" alt="Submit" style="width: 100%">Kitchen</p><p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Bathroom.jpg" onclick = "tbath()" alt="Submit" style="width: 100%">Bathroom</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Bedroom.jpg" onclick = "tbed()" alt="Submit" style ="width: 100%">Bedroom</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Home.jpg" onclick = "thome()" alt="Submit" style="width: 100%">Home</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Hospital.jpg" onclick = "thosp()" alt="Submit" style="width: 100%">Hospital</p> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src="file://E|/ProgramImageDirectory/Places/Kitchen.jpg" onclick = "tkit()" alt="Submit" style="width: 100%">Kitchen</p><p style="clear: both;"> 
 			
 			<!Row 2>
 			
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Living_Room.jpg" onclick = "myFunction6()" alt="Submit" style="width: 100%">Living Room</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Restaurant.jpg" onclick = "myFunction7()" alt="Submit" style="width: 100%">Restaurant</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/School.jpg" onclick = "myFunction8()" alt="Submit" style="width: 100%">School</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Work.jpg" onclick = "myFunction9()" alt="Submit" style="width: 100%">Work</p>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Yard.jpg" onclick = "myFunction10()" alt="Submit" style="width: 100%">Yard</p><p style="clear: both;"> 
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Living_Room.jpg" onclick = "tlive()" alt="Submit" style="width: 100%">Living Room</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Restaurant.jpg" onclick = "trest()" alt="Submit" style="width: 100%">Restaurant</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/School.jpg" onclick = "tschool()" alt="Submit" style="width: 100%">School</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Work.jpg" onclick = "twork()" alt="Submit" style="width: 100%">Work</p>
+			<p style="float: left; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Yard.jpg" onclick = "tyard()" alt="Submit" style="width: 100%">Yard</p><p style="clear: both;"> 
 			
 			<!Row 3>
 			
-			<p style="float: center; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Store.jpg" onclick = "myFunction11()" alt="Submit" style="width: 100%">Store</p><p style="clear: both;">
+			<p style="float: center; font-size: 12pt; text-align: center; width: 18.5%; margin-right: 1%; margin-bottom: 0.1em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Places/Store.jpg" onclick = "tstore()" alt="Submit" style="width: 100%">Store</p><p style="clear: both;">
 			
 		<!	<div align=left></left>
 			
@@ -32,57 +32,57 @@
 	
 	<script>
 	/* These are the functions that get called when the user clicks the buttons on the program page*/
-		function myFunction1() {
+		function tbath() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I need to go to the bathroom.");
 		}
 
-		function myFunction2() {
+		function tbed() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I want to go to the bedroom.");
 		}
 
-		function myFunction3() {
+		function thome() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300"); 
     			myWindow.document.write("<p>I want to go home.");
 		}
 
-		function myFunction4() {
+		function thosp() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
    			myWindow.document.write("<p>I need to go to the hospital.");
 		}
 
-		function myFunction5() {
+		function tkit() {
   			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
   			myWindow.document.write("<p>I want to go to the kitchen.");
 		}
 
-		function myFunction6() {
+		function tlive() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I want to go to the living room.");
 		}
 
-		function myFunction7() {
+		function trest() {
    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I want to go to a restaurant.");
 		}
 
-		function myFunction8() {
+		function tschool() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I need to go to school.");
 		}
 
-		function myFunction9() {
+		function twork() {
    			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I need to go to work.");
 		}
 
-		function myFunction10() {
+		function tyard() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I want to go to the yard.");
 		}
 
-		function myFunction11() {
+		function tstore() {
     			var myWindow = window.open("", "MsgWindow4", "width=300,height=300");
     			myWindow.document.write("<p>I want to go to the store.");
 		}
