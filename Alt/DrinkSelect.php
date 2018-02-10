@@ -5,8 +5,8 @@
 		<div align=center></center>
 		
 		<!Row 1>
-			<p style="float: left; font-size: 12pt; text-align: center; width: 30%; margin-left: 18%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/FoodandDrinks/Milk.jpg" onclick = "myFunctionA()" alt="Submit" style="width: 100%">Milk</p>
-			<p style="float: right; font-size: 12pt; text-align: center; width: 30%; margin-right: 18%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/FoodandDrinks/Water.jpg" onclick = "myFunctionB()" alt="Submit" style="width: 120%">Water</p><p style="clear: both;">
+			<p style="float: left; font-size: 12pt; text-align: center; width: 30%; margin-left: 18%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/FoodandDrinks/Milk.jpg" onclick = "tdrmilk()" alt="Submit" style="width: 100%">Milk</p>
+			<p style="float: right; font-size: 12pt; text-align: center; width: 30%; margin-right: 18%; margin-bottom: 0.5em;"><input type="image" img src = "file://E|/ProgramImageDirectory/Things/FoodandDrinks/Water.jpg" onclick = "tdrwater()" alt="Submit" style="width: 120%">Water</p><p style="clear: both;">
 		
 <!			<img src="imageLocation" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
@@ -24,11 +24,11 @@
 
 <script>
 /* These are the functions that get called when the user clicks the buttons on the program page*/
-function myFunctionA() {
+function tdrmilk() {
     var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
     myWindow.document.write("<p>I will drink milk.");
 }
-function myFunctionB() {
+function tdrwater() {
     var myWindow = window.open("", "MsgWindow3", "width=300,height=300");
     myWindow.document.write("<p>I will drink water.");
 }
