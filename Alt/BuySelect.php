@@ -47,87 +47,87 @@
 
 <script>
 /* These are the functions that get called when the user clicks the buttons on the program page*/
-function myFunctionA() {
+function tbdairy() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy dairy products.");
 }
-function myFunctionB() {
+function tbgrains() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy grains.");
 }
-function myFunctionC() {
+function tbfruits() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300"); 
     myWindow.document.write("<p>I will buy fruits.");
 }
-function myFunctionD() {
+function tbveggies() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy vegetables.");
 }
-function myFunctionE() {
+function tbmeat() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy meat.");
 }
-function myFunctionF() {
+function tbmilk() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy milk.");
 }
-function myFunctionG() {
+function tbapple() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy an apple.");
 }
-function myFunctionH() {
+function tbahi() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy ahi.");
 }
-function myFunctionI() {
+function tbbluberr() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy blueberries.");
 }
-function myFunctionJ() {
+function tbburger() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy a burger.");
 }
-function myFunctionK() {
+function tbchoc() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300"); 
     myWindow.document.write("<p>I will buy chocolate.");
 }
-function myFunctionL() {
+function tbcorn() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy corn.");
 }
-function myFunctionM() {
+function tbeggs() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy eggs.");
 }
-function myFunctionN() {
+function tbbroccoli() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy broccoli.");
 }
-function myFunctionO() {
+function tbwater() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy water.");
 }
-function myFunctionP() {
+function tbbread() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy bread.");
 }
-function myFunctionQ() {
+function tbcabbage() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy cabbage.");
 }
-function myFunctionR() {
+function tbcarrots() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy carrots.");
 }
-function myFunctionS() {
+function tbcheese() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy cheese.");
 }
-function myFunctionT() {
+function tbchickwng() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy chicken wings.");
 }
-function myFunctionU() {
+function tbcake() {
     var myWindow = window.open("", "MsgWindow10", "width=300,height=300");
     myWindow.document.write("<p>I will buy cake.");
 }
